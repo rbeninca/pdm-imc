@@ -1,8 +1,11 @@
 package br.pdm.ifsc.imc;
 
+import android.app.Activity;
+import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -46,8 +49,5 @@ public class Principal extends AppCompatActivity {
         if (this.imc.get_imc()>40  ){
             imgview.setImageResource(R.drawable.obesidade3);
         }
-
-
-        
     }
 }
