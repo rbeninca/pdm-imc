@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Aplicatico IMC 
 
 Aplicativo para android construido com android Studio 3.01 utilizando Linear Layout 
@@ -23,7 +22,7 @@ Execute a aplicação com o emulador.
 
 ## Authors
 
-* **Romulo Beninca** - *Initial work* - [PurpleBooth](https://github.com/rbeninca/pdm-imc)
+* **Romulo Beninca** - *Initial work* -
 
 ## License
 
