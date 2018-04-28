@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aplicatico IMC 
 
 Aplicativo para android construido com android Studio 3.01 utilizando Linear Layout 
@@ -32,3 +33,7 @@ Mozilla Public License Version 2.0 - see the [LICENSE.md](LICENSE.md) file for d
 
 * Professor Ms Gustavo Guerdes
 
+=======
+# pdm-imc
+App imc 
+>>>>>>> 2b1ded2318e04e36a4f122b31d1b14cee0aa7019
